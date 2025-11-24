@@ -9,5 +9,5 @@ The Christmas Bird Count data is not included in the repository as that would no
 
 The historical rainfall data is available for download from the County of Santa Barbara's website ([link to file](https://files.countyofsb.org/pwd/hydrology/historic%20data/rainfall/XLS%20Dailys/234dailys.xls)).
 
-##File
+## File
 Data_Wrangling_project.ipynb: Contains all the code for the project as well as explanations of the process and results, including visuals.
